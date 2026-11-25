@@ -1,0 +1,9 @@
+fermion-research
+torch
+safetensors
+soundfile
+scipy
+zstandard
+sounddevice
+numpy
+pyinstaller
